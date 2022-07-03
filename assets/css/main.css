@@ -49,6 +49,12 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	mailto {
+		color: green;
+		background-color: transparent;
+		text-decoration: none;
+	  }
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -3916,3 +3922,4 @@
 			}
 
 		}
+
