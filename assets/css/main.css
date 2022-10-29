@@ -2738,7 +2738,8 @@ html {
 	}
 
 	header h3 + p {
-		font-size: 1.1em;
+		/* testing-again */
+		font-size: 1.4em;
 		margin-top: -0.8em;
 	}
 
