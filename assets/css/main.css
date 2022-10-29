@@ -3857,7 +3857,8 @@ html {
 		@media screen and (max-width: 480px) {
 
 			#banner p {
-				font-size: 1em;
+				/* font-size-for-olps-mobile-lgg7 */
+				font-size: 1.5em;
 			}
 
 		}
