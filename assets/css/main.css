@@ -2728,6 +2728,8 @@ html {
 	}
 
 	header p {
+		/* added-font-size */
+		font-size: 1.55em;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
