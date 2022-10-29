@@ -1610,7 +1610,7 @@ html {
 		@media screen and (max-width: 1680px) {
 			body, input, select, textarea {
 				/* Ipad-paragraph-from-13-to-15 */
-				font-size: 15pt;
+				font-size: 13pt;
 			}
 
 		}
@@ -1619,7 +1619,7 @@ html {
 
 			body, input, select, textarea {
 				/* this-might-be-the-one-for-the-ipad */
-				font-size: 15pt;
+				font-size: 13pt;
 			}
 
 		}
