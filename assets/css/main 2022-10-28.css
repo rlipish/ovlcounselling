@@ -1685,39 +1685,39 @@ html {
 		@media screen and (max-width: 736px) {
 
 			h1 {
-				font-size: 2.7em;
-			}
-
-		}
-
-	h2 {
-		font-size: 2.7em;
-	}
-
-		@media screen and (max-width: 736px) {
-
-			h2 {
 				font-size: 2.5em;
 			}
 
 		}
 
-		@media screen and (max-width: 480px) {
-
-			h2 {
-				font-size: 1.8em;
-			}
-
-		}
-
-	h3 {
+	h2 {
 		font-size: 2.5em;
 	}
 
 		@media screen and (max-width: 736px) {
 
+			h2 {
+				font-size: 2em;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			h2 {
+				font-size: 1.5em;
+			}
+
+		}
+
+	h3 {
+		font-size: 2.25em;
+	}
+
+		@media screen and (max-width: 736px) {
+
 			h3 {
-				font-size: 1.8em;
+				font-size: 1.5em;
 			}
 
 		}
@@ -1725,7 +1725,7 @@ html {
 		@media screen and (max-width: 480px) {
 
 			h3 {
-				font-size: 1.7em;
+				font-size: 1.25em;
 			}
 
 		}
@@ -3837,15 +3837,13 @@ html {
 				}
 
 				#banner h1 {
-					/* font-size-for-ovl-counselling-title-mobile */
-					font-size: 3em;
+					font-size: 1.75em;
 					margin-bottom: 0.5em;
 					padding-bottom: 0;
 				}
 
 				#banner p {
-					/* font-size-for-olps-mobile */
-					font-size: 1.75em;
+					font-size: 1.25em;
 				}
 
 				#banner .button {
