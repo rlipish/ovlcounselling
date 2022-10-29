@@ -1618,7 +1618,8 @@ html {
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				/* this-might-be-the-one-for-the-ipad */
+				font-size: 15pt;
 			}
 
 		}
