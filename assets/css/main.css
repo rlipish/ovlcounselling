@@ -1609,7 +1609,8 @@ html {
 	/* CHANGES FONT SIZE FOR DESKTOP */
 		@media screen and (max-width: 1680px) {
 			body, input, select, textarea {
-				font-size: 13pt;
+				/* Ipad-paragraph-from-13-to-15 */
+				font-size: 15pt;
 			}
 
 		}
